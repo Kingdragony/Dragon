@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## 𝐃𝐑𝐀𝐆𝐎𝐍_𝐕2 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐦𝐞𝐭𝐡𝐨𝐝𝐬☬☬
+ ## 𝐃𝐑𝐀𝐆𝐎𝐍-V1 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐦𝐞𝐭𝐡𝐨𝐝𝐬☬☬
 
 ### 1. FORK THIS REPO
 
