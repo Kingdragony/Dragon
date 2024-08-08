@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•𝑨𝑹𝑳𝑶_+𝑫𝑹𝑨𝑮𝑶𝑵✠-+V1☬•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝓐𝓡𝓛𝓞+𝓓𝓡𝓐𝓖𝓞𝓝;RELEASED+7+AUG,2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/117760f2601f9b558e4a0.jpg"/> 
+<img src="https://telegra.ph/file/86e075e0ea22a14f89e23.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{𝚔𝚒𝚙𝚔𝚘𝚎𝚌𝚑}/count.svg" alt="Dragon :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/kingdragony/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingdragony?color=red&style=flat-square"></a>
