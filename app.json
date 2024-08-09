@@ -2,14 +2,14 @@
     "name": "DRAGON-V1",
     "description": "Simple WhatsApp BOT CREATED BY DRAGON",
     "logo": "https://telegra.ph/file/06b2add033260da0ce79f.jpg",
-    "keywords": ["dragon", "DRAGON V1", "POP_KID"],
+    "keywords": ["dragon", "DRAGON V1", "DRAGON-V1"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "DRAGON",
+        "value": "DRAGON-V1",
         "required": true
       },
   
